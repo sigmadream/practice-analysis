@@ -1,11 +1,11 @@
 # practice-analysis
 
-> 회귀, 분류, 시계열을 파이썬과 R을 사용해서 연습해 본 저장소 입니다.
+> [`R`](https://www.r-project.org/)에서 진행된 [회귀 분석](https://en.wikipedia.org/wiki/Regression_analysis), [분류](classification), [시계열](https://en.wikipedia.org/wiki/Time_series) 분석 방법을 파이썬으로 변경하여 진행하는 과정을 연습한 자료를 저장해 둔 자료입니다. R에서 진행된 분석 방법은 `with_R` 폴더의 `PDF` 파일을 확인하세요.
 
 ## 설정
 * Python <= `3.10.10`
-* `numpy`, `pandas`, `matplotlib`는 필수적으로 설치해주세요.
-* `ipynb`를 위해서 `JupyterLab`도 함꼐 설치해주세요.
+* `numpy`, `pandas`, `matplotlib`는 `requirements.txt` 파일을 참고해서 설치해주세요.
+* `ipynb`를 위해서 `JupyterLab`도 함께 설치해주세요.
 
 ```shell
 $ python -m venv venv
@@ -14,6 +14,7 @@ $ (venv) pip install -r requirements.txt
 ```
 
 ## ToDo
-- [ ] 회귀 문제(캘리포니아 집 값 데이터)
-- [ ] 분류 문제(타이타닉 생존자 예측, Kaggle)
+
+- [ ] 회귀 문제([캘리포니아 집 값 데이터](http://lib.stat.cmu.edu/datasets/))
+- [ ] 분류 문제([타이타닉 생존자 예측](https://www.kaggle.com/c/titanic))
 - [ ] 시계열 문제(문제 탐색 중)
