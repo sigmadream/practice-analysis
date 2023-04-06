@@ -4,8 +4,11 @@
 
 ## 설정
 * Python <= `3.10.10`
-* `numpy`, `pandas`, `matplotlib`는 `requirements.txt` 파일을 참고해서 설치해주세요.
-* `ipynb`를 위해서 `JupyterLab`도 함께 설치해주세요.
+    * `numpy`, `pandas`, `matplotlib`는 데이터 분석을 사용
+    * 고급 시각화를 위해서 `plotly`도 병행해서 사용
+    * 회귀 분석을 위해서 `xgboost`, `Optuna`를 활용
+    * `ipynb`를 위해서 `JupyterLab`도 함께 설치    
+    * `requirements.txt` 파일을 참고해서 설치
 
 ```shell
 $ python -m venv venv
