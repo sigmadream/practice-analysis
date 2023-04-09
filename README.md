@@ -11,10 +11,26 @@
     * `requirements.txt` 파일을 참고해서 설치
 
 ```shell
+$ python --version
+Python 3.10.11
 $ python -m venv venv
+# for Windows
 $ .\venv\Scripts\activate
+# for Linux/macOS
+$ source ./venv/bin/activate
 $ (venv) pip install -r requirements.txt
 ```
+
+## 사용된 패키지 목록
+* numpy
+* pandas
+* seaborn
+* plotly
+* jupyterlab
+* statsmodels
+* scikit-learn
+* xgboost
+* optuna
 
 ## ToDo
 
