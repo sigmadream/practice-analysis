@@ -34,6 +34,6 @@ $ (venv) pip install -r requirements.txt
 
 ## ToDo
 
-- [ ] 회귀 문제([캘리포니아 집 값 데이터](http://lib.stat.cmu.edu/datasets/))
+- [X] 회귀 문제([캘리포니아 집 값 데이터](http://lib.stat.cmu.edu/datasets/))
 - [ ] 분류 문제([타이타닉 생존자 예측](https://www.kaggle.com/c/titanic))
 - [ ] 시계열 문제(문제 탐색 중)
