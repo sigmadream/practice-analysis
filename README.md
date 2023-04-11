@@ -32,7 +32,8 @@ $ (venv) pip install -r requirements.txt
 * [xgboost](https://xgboost.readthedocs.io/en/stable/)
 * [optuna](https://optuna.readthedocs.io/en/stable/)
 * [finance-datareader](https://github.com/financedata-org/FinanceDataReader)
-* [prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
+* [prophet](https://facebook.github.io/prophet/docs/quick_start.html)
+* [pycountry](https://github.com/flyingcircusio/pycountry)
 
 ## ToDo
 
