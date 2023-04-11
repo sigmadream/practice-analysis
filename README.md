@@ -22,18 +22,18 @@ $ (venv) pip install -r requirements.txt
 ```
 
 ## 사용된 패키지 목록
-* numpy
-* pandas
-* seaborn
-* plotly
-* jupyterlab
-* statsmodels
-* scikit-learn
-* xgboost
-* optuna
+* [numpy](https://numpy.org/)
+* [pandas](https://pandas.pydata.org/)
+* [seaborn](https://seaborn.pydata.org/)
+* [plotly](https://plotly.com/python/)
+* [jupyterlab](https://jupyterlab.readthedocs.io/en/stable/)
+* [statsmodels](https://www.statsmodels.org/stable/index.html)
+* [scikit-learn](https://scikit-learn.org/)
+* [xgboost](https://xgboost.readthedocs.io/en/stable/)
+* [optuna](https://optuna.readthedocs.io/en/stable/)
 
 ## ToDo
 
 - [X] 회귀 문제([캘리포니아 집 값 데이터](http://lib.stat.cmu.edu/datasets/))
-- [ ] 분류 문제([타이타닉 생존자 예측](https://www.kaggle.com/c/titanic))
+- [X] 분류 문제([타이타닉 생존자 예측](https://www.kaggle.com/c/titanic))
 - [ ] 시계열 문제(문제 탐색 중)
