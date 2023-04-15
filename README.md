@@ -34,9 +34,11 @@ $ (venv) pip install -r requirements.txt
 * [finance-datareader](https://github.com/financedata-org/FinanceDataReader)
 * [prophet](https://facebook.github.io/prophet/docs/quick_start.html)
 * [pycountry](https://github.com/flyingcircusio/pycountry)
+* [dash](https://plotly.com/dash/)
+* [dash-bootstrap-components](https://dash-bootstrap-components.opensource.faculty.ai/)
 
 ## ToDo
 
 - [X] 회귀 문제([캘리포니아 집 값 데이터](http://lib.stat.cmu.edu/datasets/))
 - [X] 분류 문제([타이타닉 생존자 예측](https://www.kaggle.com/c/titanic))
-- [ ] 시계열 문제(문제 탐색 중)
+- [X] 시계열 문제
